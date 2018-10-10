@@ -1,3 +1,9 @@
+## Penrod Weather Application
+
+Webpage to display the weather at the Penrod offices in Chicago, Dallas, Milwaukee, and Minneapolis.
+
+The application was built using React, the lightning design system CSS framework, and the OpenWeatherMap API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
